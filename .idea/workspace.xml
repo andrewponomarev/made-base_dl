@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d17a69c1-caa8-4f50-91b9-d64d2e1f0e00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/01_intro_dl_logreg.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/images/anime.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/images/graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-fc-nets-backprop/02_fc_nets_backprop.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-optimization/03_optimization.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-convolutional-networks/04_convolutional_networks.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-convolutional-networks/data/photos/lecun.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/05_recap_speedup_hopt.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/bicycle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/board-1-simple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/board-2-plot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/board-3-fp16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/board-4-hyper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/gpu-usage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/lightning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/resources/made.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/jupyter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/pdf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons/youtube.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/made-base_dl.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/01_logreg.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/01_numpy.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-intro-dl-logreg/images/drawing.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-fc-nets-backprop/02_fc_nets_backprop.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-optimization/03_pytorch_workshop.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-convolutional-networks/04_convolutional_networks.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/05_lightning_optuna.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/05_testset_size_evaluation.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-recap-speedup-hopt/seminar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -72,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="2955">
+              <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,12 +95,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <marker date="1613929032084" expanded="true" signature="22363:22405" ph="..." />
+                <marker date="1613929032084" expanded="true" signature="22363:22423" ph="..." />
+                <marker date="1613929032084" expanded="true" signature="22363:22436" ph="..." />
+                <marker date="1613929032084" expanded="true" signature="22363:22451" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,6 +124,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -219,7 +188,7 @@
     <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -255,6 +224,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613926304585</updated>
     </task>
+    <task id="LOCAL-00001" summary="lections 1-5">
+      <created>1613928923815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613928923816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -290,6 +267,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lections 1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lections 1-5" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -346,14 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -398,6 +372,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1613929032084" expanded="true" signature="22363:22405" ph="..." />
+            <marker date="1613929032084" expanded="true" signature="22363:22423" ph="..." />
+            <marker date="1613929032084" expanded="true" signature="22363:22436" ph="..." />
+            <marker date="1613929032084" expanded="true" signature="22363:22451" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="197" column="0" lean-forward="true" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
           <folding />
         </state>
       </provider>
