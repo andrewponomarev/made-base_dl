@@ -39,8 +39,11 @@ target class. If types are provided, they are checked during initialization.
 
 import threading
 from collections import OrderedDict
+from copy import deepcopy
 
+import optuna
 import yaml
+
 
 CONFIG_TYPE = "_type"
 CONFIG_HYPER = "_hyper"

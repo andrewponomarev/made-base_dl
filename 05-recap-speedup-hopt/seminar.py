@@ -1,8 +1,8 @@
-import sqlite3 as sq
 from collections import defaultdict
 
 import cv2
 import numpy as np
+import sqlite3 as sq
 import torch
 import torchvision
 from matplotlib import pyplot as plt
